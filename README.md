@@ -22,6 +22,12 @@ The workbook is structured as a mini data pipeline: **Raw Data → KPI Calculati
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![HR Workforce Dashboard](dashboard_screenshot.png)
+
+---
+
 ## 🗂️ Workbook Structure
 
 | Sheet | Purpose |
