@@ -100,8 +100,6 @@ The `Pivot_Table` sheet includes 10 tables covering:
 
 ---
 
----
-
 ## 📬 Future Improvements
 
 - Add slicers for interactive filtering directly on the Dashboard
