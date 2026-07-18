@@ -1,4 +1,4 @@
-# HR-Workforce-Analytics-Dashboard
+
 # 📊 HR Workforce Analytics Dashboard
 
 An interactive Excel dashboard analyzing employee attrition, satisfaction, and compensation trends across an organization of **1,470 employees**. Built entirely in Excel using PivotTables, PivotCharts, and dynamic KPI cards — no external BI tool required.
