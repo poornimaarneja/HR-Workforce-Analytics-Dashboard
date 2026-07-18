@@ -100,13 +100,6 @@ The `Pivot_Table` sheet includes 10 tables covering:
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── HR_Workforce_Dashboard.xlsx   # Main workbook (Raw Data, KPI, Pivot_Table, Dashboard)
-└── README.md                      # Project documentation
-```
-
 ---
 
 ## 📬 Future Improvements
